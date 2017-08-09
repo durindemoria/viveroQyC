@@ -1,0 +1,12 @@
+﻿Errores
+
+100 - 1000 -> Base de datos
+1000 - 2000 -> Formularios
+
+Base de datos
+1 - 50 -> CategoriaPlantas
+50 - 100 -> CategoriaEmpleados 
+100 -> 200 -> Empleado
+200 -> 1000 -> Clientes
+1000 - 10000 -> Plantas
+10000 - 50000 -> OrdenCompra

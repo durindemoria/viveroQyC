@@ -1,0 +1,19 @@
+﻿03/08	Probando el agregar de Planta.
+		Probando con los campos vacios.
+		Si detecta los campos vacios
+
+		Probando con el parseo de los campos
+		No los parsea, error en el formato de la cadena.
+
+		Ya parsea el campo decimal.
+
+08/08   Probando agregar nueva planta convirtiendo datos, comprobando los campos.
+		Testeando las funciones.
+		Arreglar HandleForm en ComprobrarTiposDatos(), si es nulo no lo chekea, y tendria que chckearlo.
+
+09/08	Hice el primer insert, usando sanearyvalidar y parsearDatos().
+
+		Modificando el Lista de Plantas.
+		Hacer click y que se relleno el formulario.
+		No funciona con el combobox
+		
